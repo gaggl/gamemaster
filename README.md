@@ -1,5 +1,5 @@
-# golang-example
+# Gamemaster
 
-![goreleaser](https://github.com/attachmentgenie/golang-example/workflows/goreleaser/badge.svg)
+![goreleaser](https://github.com/gaggl/gamemaster/workflows/goreleaser/badge.svg)
 
 golang starter project
